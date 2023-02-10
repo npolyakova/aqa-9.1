@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<CAT>
+    <NAME>Izzy</NAME>
+    <BREED type="international">Siamese</BREED>
+    <AGE>6</AGE>
+    <ALTERED>yes</ALTERED>
+    <DECLAWED>no</DECLAWED>
+    <LICENSE>Izz138bod</LICENSE>
+    <OWNER>
+        owner
+        <NAME>Colin Wilcox</NAME>
+        <ADDRESS>
+            <STREET>Fleet Street</STREET>
+            <HOUSE>5</HOUSE>
+        </ADDRESS>
+    </OWNER>
+</CAT>
